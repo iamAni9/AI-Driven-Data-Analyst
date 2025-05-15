@@ -2,6 +2,7 @@
 
 An AI-powered data analysis assistant that converts natural language business questions into SQL queries, fetches and processes data from PostgreSQL, and provides insightful explanations with dynamic visualizations. Built with a Node.js backend, React frontend styled with Tailwind CSS, and integrated with GroqCloud’s LLM API.
 
+Link: https://ai-driven-data-analyst.vercel.app/
 ---
 
 ## Features
